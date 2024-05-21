@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydev361&show_icons=true&locale=en&layout=compact" alt="jaydev361" /></p>
 
-![snake gif](https://github.com/Jaydev361/Jaydev361/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Jaydev361/Jaydev361/blob/output/github-contribution-grid-snake.svg)
