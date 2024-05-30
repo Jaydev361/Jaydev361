@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [sentiment analysis](https://sentiment-analysis-8varapp5ck6wnfbkknut5pn.streamlit.app/)
 
-- 🌱 I’m currently learning **Machine learning , Node.js**
+- 🌱 I’m currently learning **Machine learning , PHP, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://jaydev-portfolio.netlify.app/](https://jaydev-portfolio.netlify.app/)
 
