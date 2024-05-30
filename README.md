@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [sentiment analysis](https://sentiment-analysis-8varapp5ck6wnfbkknut5pn.streamlit.app/)
 
-- 🌱 I’m currently learning **Machine learning , PHP, Node.js**
+- 🌱 I’m currently learning **PHP, React.js,Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://jaydev-portfolio.netlify.app/](https://jaydev-portfolio.netlify.app/)
 
-- 💬 Ask me about **PHP,React.js,Python**
+- 💬 Ask me about **PHP,js,Python**
 
 - 📫 How to reach me **jaydevsarkhel361@gmail.com**
 
