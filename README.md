@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jaydev-portfolio.netlify.app/](https://jaydev-portfolio.netlify.app/)
 
-- 💬 Ask me about **React.js,python,c++,java**
+- 💬 Ask me about **PHP,React.js,Python**
 
 - 📫 How to reach me **jaydevsarkhel361@gmail.com**
 
